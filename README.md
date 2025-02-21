@@ -66,7 +66,4 @@ This project is licensed under the MIT License.
 
 Contributions, pull requests, and suggestions are welcome! 🚀
 
-## 👨‍💻 Author
-
-[Your Name]
 
